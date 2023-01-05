@@ -1,3 +1,16 @@
+<table align="right">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
 # Kraken Theme :octopus:
 
 Um tema de Vscode criado com base nas cores da minha atlética da faculdade, com a base dark uilizando as cores predominantes,

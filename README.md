@@ -13,7 +13,7 @@
 
 # Kraken Theme :octopus:
 
-Um tema de Vscode criado com base nas cores da minha atlética da faculdade, com a base dark uilizando as cores predominantes,
+Um tema de Vscode criado com base nas cores da minha atlética da faculdade, com a base dark utilizando as cores predominantes,
 
 (Roxo e Ciano)
 
